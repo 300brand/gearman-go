@@ -14,8 +14,8 @@ import (
     "sync"
     "testing"
     "strings"
-    "github.com/mikespook/gearman-go/client"
-    "github.com/mikespook/gearman-go/worker"
+    "github.com/300brand/gearman-go/client"
+    "github.com/300brand/gearman-go/worker"
 )
 
 const(

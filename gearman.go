@@ -10,7 +10,7 @@ The protocol was implemented by native way.
 package gearman
 
 import (
-    _ "github.com/mikespook/gearman-go/common"
-    _ "github.com/mikespook/gearman-go/client"
-    _ "github.com/mikespook/gearman-go/worker"
+    _ "github.com/300brand/gearman-go/common"
+    _ "github.com/300brand/gearman-go/client"
+    _ "github.com/300brand/gearman-go/worker"
 )

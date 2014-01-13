@@ -6,7 +6,7 @@ import (
     "time"
     "strings"
     "github.com/mikespook/golib/signal"
-    "github.com/mikespook/gearman-go/worker"
+    "github.com/300brand/gearman-go/worker"
 )
 
 func ToUpper(job *worker.Job) ([]byte, error) {

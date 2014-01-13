@@ -4,7 +4,7 @@ import (
     "log"
     "sync"
     "time"
-    "github.com/mikespook/gearman-go/client"
+    "github.com/300brand/gearman-go/client"
 )
 
 func main() {

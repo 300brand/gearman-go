@@ -12,7 +12,7 @@ import (
     "time"
     "bytes"
     "strconv"
-    "github.com/mikespook/gearman-go/common"
+    "github.com/300brand/gearman-go/common"
 )
 
 var (

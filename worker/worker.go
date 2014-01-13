@@ -6,7 +6,7 @@ package worker
 
 import (
     "time"
-    "github.com/mikespook/gearman-go/common"
+    "github.com/300brand/gearman-go/common"
 )
 
 const (
